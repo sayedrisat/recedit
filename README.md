@@ -2,7 +2,7 @@
 
 Offline native video editor for Linux, written in Rust.
 
-**[Download Recedit 1.0.0 Beta 1](https://github.com/sayedrisat/recedit/releases/tag/v1.0.0-beta.1)**
+**[Download Recedit Beta 1 — Patch 1](https://github.com/sayedrisat/recedit/releases/tag/v1.0.0-beta.1.1)**
 
 Ubuntu 26.04 amd64. Manual editing works offline after runtime dependencies are installed. The release includes the `.deb` installer, SHA-256 checksum and installation/feature/qualification notes.
 
